@@ -76,18 +76,21 @@
     <section class="contact" id="contact">
         <h2>Contact</h2>
 
-        <form action="https://formsubmit.co/goras_lucian@yahoo.com" method="POST">
-            <!-- Redirect după submit -->
-            <input type="hidden" name="_next" value="https://electro-sigur.ro/">
-            <!-- Dezactivează captcha -->
-            <input type="hidden" name="_captcha" value="false">
-
-            <input type="text" name="name" placeholder="Nume complet" required>
-            <input type="email" name="email" placeholder="Email" required>
-            <input type="text" name="phone" placeholder="Telefon" required>
-            <textarea name="message" placeholder="Mesajul tău" required></textarea>
-            <button type="submit" class="btn">Trimite mesaj</button>
-        </form>
+       <form action="https://formspree.io/f/xyzrjaog">
+  <label>Nume:
+    <input type="text" name="name" required>
+  </label>
+  <br><br>
+  <label>Email:
+    <input type="email" name="email" required>
+  </label>
+  <br><br>
+  <label>Mesaj:
+    <textarea name="message" rows="5" required></textarea>
+  </label>
+  <br><br>
+  <button type="submit">Trimite</button>
+</form>
 
         <!-- INFO CONTACT DIRECT -->
         <div class="contact-info">
