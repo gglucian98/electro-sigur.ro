@@ -11,7 +11,7 @@
     <!-- HERO -->
     <header class="hero">
         <div class="hero-content">
-            <h1>Electro-Sigur – Inginer Electrician</h1>
+            <h1>Electro-Sigur – Inginer Electrician autorizat ANRE</h1>
             <p>Instalații electrice sigure, eficiente și conforme normelor.</p>
             <a href="#contact" class="btn">Solicită ofertă</a>
         </div>
@@ -21,7 +21,7 @@
     <section class="about">
         <h2>Despre mine</h2>
         <p>
-            Sunt inginer electrician cu experiență în proiectare, execuție și verificare instalații electrice rezidențiale și industriale.
+            Sunt inginer electrician cu experiență în proiectare, execuție și verificare instalații electrice rezidențiale.
             Ofer soluții moderne, eficiente energetic și complet adaptate nevoilor tale.
         </p>
     </section>
@@ -34,7 +34,7 @@
 
         <div class="service-card">
             <h3>✔ Instalații electrice complete</h3>
-            <p>Proiectare și execuție pentru locuințe, birouri și hale industriale.</p>
+            <p>Proiectare și execuție pentru locuințe.</p>
         </div>
 
         <div class="service-card">
@@ -68,7 +68,7 @@
             <li>✔ Rapid și profesionist</li>
             <li>✔ Materiale premium</li>
             <li>✔ Prețuri corecte și transparență</li>
-            <li>✔ Garanție pentru toate lucrările</li>
+            <li>✔ Garanție pentru toate lucrările (se aplică termene și condiții)</li>
         </ul>
     </section>
 
